@@ -1,0 +1,1 @@
+This file ensures that booker/static/ will be added to the project.Django will collect static files and place them in booker/static/.
